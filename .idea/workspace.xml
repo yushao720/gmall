@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4819a2d-3d1f-4ff9-8a96-ef738b787fe0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aZ91wUVq6Oywa8dRoWRMb0UZBY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.GmallPmsApplication">
+    <configuration name="GmallAdminWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-admin-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.guozeyu.gmall.gmall.admin.GmallAdminWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallOmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-oms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.guozeyu.gmall.gmalloms.GmallOmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallPmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-pms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.guozeyu.gmall.gmall.pms.GmallPmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallSmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-sms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.guozeyu.gmall.sms.GmallSmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallUmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-ums" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.guozeyu.gmall.ums.GmallUmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4819a2d-3d1f-4ff9-8a96-ef738b787fe0" name="Default Changelist" comment="" />
+      <created>1586932037404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586932037404</updated>
+      <workItem from="1586932041485" duration="1427000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1586933318678</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586933318678</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="522" y="455" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586932725544">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="522" y="455" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586932725544" />
+    <state x="517" y="129" key="CommitChangelistDialog2" timestamp="1586933312077">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="517" y="129" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1586933312077" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1586933461256">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1586933461256" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1586933107666">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1586933107666" />
+    <state x="334" y="234" key="new project wizard" timestamp="1586932462078">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="334" y="234" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1586932462078" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1586933180799">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1586933180799" />
+  </component>
+</project>
